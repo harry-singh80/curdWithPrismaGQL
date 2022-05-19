@@ -1,2 +1,2 @@
 # curdWithPrismaGQL
-this is demo application with CREATE,READ,UPDATE,DELETE, Operations with Prisma and GraphQl 
+In here  be will update shortly
