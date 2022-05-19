@@ -1,2 +1,2 @@
 # curdWithPrismaGQL
-In here  be will update shortly
+In here  We will update shortly
